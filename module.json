@@ -1,0 +1,29 @@
+{
+    "name": "FilamentCmsYoutube",
+    "alias": "filament-cms-youtube",
+    "description": {
+        "ar": "Youtube Extension for Filament CMS Builder to auto import videos from Youtube",
+        "en": "Youtube Extension for Filament CMS Builder to auto import videos from Youtube",
+        "gr": "Youtube Extension for Filament CMS Builder to auto import videos from Youtube",
+        "sp": "Youtube Extension for Filament CMS Builder to auto import videos from Youtube"
+    },
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "TomatoPHP\\FilamentCmsYoutube\\FilamentCmsYoutubeServiceProvider"
+    ],
+    "files": [],
+    "title": {
+        "ar": "Filament cms youtube",
+        "en": "Filament cms youtube",
+        "gr": "Filament cms youtube",
+        "sp": "Filament cms youtube"
+    },
+    "color": "#cc1448",
+    "icon": "heroicon-c-users",
+    "placeholder": "https://raw.githubusercontent.com/tomatophp/filament-cms-youtube/master/art/screenshot.jpg",
+    "type": "plugin",
+    "version": "v1.0.0",
+    "github" : "https://github.com/tomatophp/filament-cms-youtube",
+    "docs" : "https://github.com/tomatophp/filament-cms-youtube"
+}
